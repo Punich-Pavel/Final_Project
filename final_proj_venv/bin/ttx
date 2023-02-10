@@ -1,0 +1,8 @@
+#!/home/pavel/Work/Skill_Factory_DSPR/GitHub_Projects/Final_Project/final_proj_venv/bin/python3.10
+# -*- coding: utf-8 -*-
+import re
+import sys
+from fontTools.ttx import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
