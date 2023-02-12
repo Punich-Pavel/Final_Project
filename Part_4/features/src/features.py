@@ -8,8 +8,8 @@ import time
 # Создаем бесконечный цикл для отправки сообщений в очередь
 while True:
     try:
-        # Загружаем датасет о диабете
-        X, y = load_diabetes(return_X_y=True)
+        # Загружаем датасет 
+        
         # Формируем случайный индекс строки
         random_row = np.random.randint(0, X.shape[0]-1)
 
