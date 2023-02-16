@@ -10,7 +10,7 @@
 
 ### Краткая информация о данных
 
-Использован подготовленный в Части 2 набор данных [model_df.csv](./Final_Project/tree/master/Part_2/data)
+Использован подготовленный в Части 2 набор данных [model_df.csv](https://github.com/Punich-Pavel/Final_Project/tree/master/Part_2/data)
 
 ### Какой кейс решаем?   
 

@@ -8,7 +8,7 @@
 
 ### Краткая информация о данных
 
-Использован подготовленный в Части 1 набор данных [sp_df_2020.csv](./Final_Project/Part_1/data)
+Использован подготовленный в Части 1 набор данных [sp_df_2020.csv](https://github.com/Punich-Pavel/Final_Project/tree/master/Part_1/data)
 
 ### Какой кейс решаем?   
 
