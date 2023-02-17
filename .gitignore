@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # My files and folders
-.final_proj_venv
+/*_venv/
